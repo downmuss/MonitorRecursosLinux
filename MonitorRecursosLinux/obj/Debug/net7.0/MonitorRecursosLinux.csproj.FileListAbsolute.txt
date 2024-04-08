@@ -1,0 +1,14 @@
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\bin\Debug\net7.0\MonitorRecursosLinux.exe
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\bin\Debug\net7.0\MonitorRecursosLinux.deps.json
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\bin\Debug\net7.0\MonitorRecursosLinux.runtimeconfig.json
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\bin\Debug\net7.0\MonitorRecursosLinux.dll
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\bin\Debug\net7.0\MonitorRecursosLinux.pdb
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.AssemblyInfoInputs.cache
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.AssemblyInfo.cs
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.csproj.CoreCompileInputs.cache
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.dll
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\refint\MonitorRecursosLinux.dll
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.pdb
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\MonitorRecursosLinux.genruntimeconfig.cache
+E:\Sources\MonitorRecursosLinux\MonitorRecursosLinux\obj\Debug\net7.0\ref\MonitorRecursosLinux.dll
